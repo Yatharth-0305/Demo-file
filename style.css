@@ -1,0 +1,36 @@
+body {
+  background-color: #fbdfc9;
+  }
+  hr{
+    background-color: white; 
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: black;
+    border-width: 5px;
+    height: 0px;
+    width: 50%;
+  }
+  
+  h3{
+    color:#bf7f66;
+    
+  }
+  h1{
+    color:red;
+  }
+
+  h4{
+    color:#384646;
+  }
+  .MIT{
+    background-color: aquamarine;
+  }
+  .MAHE{
+    background-color: bisque;
+  }
+  #heading{
+    color: #010101;
+  }
+  img.hover{
+    background-color: #384646;
+  }
